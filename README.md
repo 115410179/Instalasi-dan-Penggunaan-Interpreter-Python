@@ -1,2 +1,4 @@
-# Instalasi-dan-Penggunaan-Interpreter-Python
-Tutorial - bab 1 sampai 3
+Nama Juliana Purwo W.
+Nim 115410179
+Dosen Pengampu
+Bambang
