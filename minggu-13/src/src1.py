@@ -1,0 +1,1 @@
+angka = pd.Series(np.array([60.5,70.45,80.00,90.64]));
